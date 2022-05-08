@@ -1,0 +1,54 @@
+Information Gathering
+    1. DNS Record Checker 
+    2. Whois Lookup Record
+    3. IP Lookup 
+    4. Subdomain Finder 
+    5. URL Enumeration 
+
+Scannings 
+    1.Single_Port Scan 
+    2.Multi_Port Scan 
+    3.LAN Scan 
+    4.Stealth Scanning (SYN Scan ) 
+    5.TCP ACK Scanning 
+
+Network Attacking 
+    1.DDOS Attack 
+    2.Anti-Dos Attack 
+    3.Man-in-the-middle (MITM )
+    4.Data exfiltration (TCP) 
+    5.Directory Navigation 
+    6.Screenshots on Target 
+    7.Webcam snapshot in Reverse Shell 
+    8.HTTP Reverse Shell 
+    9.Data exfiltration (HTTP) 
+    
+Malicious Program 
+    1.System command execution malware 
+    2.Command exe report 
+    3.Password Stealing from Vicitm
+    4.Keylogger 
+    5.FTP Brute-force 
+    6.SSH Brute-force 
+    7.Window Login Password 
+    8.Crack HTTP username and Password 
+    
+Cryptography 
+    1.Reverse Cipher  
+    2.Caesar Cipher 
+    3.String encryption with Symmetric 
+    4.File Encryption
+    5.Hashing 
+    6.SHA1,SHA256,SHA384,SHA512
+    7.Hash Cracking 
+
+Web Application Hacking 
+    1.Command Injection 
+    2.LFI (Local File Inclusion)
+    3.RFI (Remote File Inclusion)
+    4.Cross Site Scription (XSS)
+    5.Stored XSS  
+    6.Cookies Grabber 
+    7.SQL Injection 
+    8.Create Web Automate 
+    9.Web Application Vulnerability Scanner
